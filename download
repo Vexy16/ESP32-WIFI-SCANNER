@@ -1,0 +1,11 @@
+# Arduino / build
+build/
+*.bin
+*.elf
+*.map
+
+# Editores e sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
